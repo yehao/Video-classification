@@ -28,8 +28,17 @@
 - Two-Stream SR-CNNs for Action Recognition in Videos. [[Paper](http://www.bmva.org/bmvc/2016/papers/paper108/paper108.pdf)][[Code](https://github.com/yifita/action.sr_cnn)]
 - Trajectory-Pooled Deep Convolutional Descriptor. [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf)]
 - Temporal Segment Networks: Towards Good Practices for Deep Action Recognition. [[Paper](http://arxiv.org/abs/1608.00859)]
+- Learnable pooling with Context Gating for video classification.
 ## 动作检测
 - Finding Action Tubes. [[Paper](https://arxiv.org/abs/1411.6031)] [[Code](https://github.com/gkioxari/ActionTubes)]
+- Multi-region Two-Stream R-CNN for Action Detection.
+- Temporal Action Detection with Structured Segment Networks.
+- UntrimmedNets for Weakly Supervised Action Recognition and Detection
+- R-CNNs for Pose Estimation and Action Detection.
 
 ## 特征融合
+- Multi-Stream Multi-Class Fusion of Deep Networks for Video Classification. [[Paper](http://www.yugangjiang.info/publication/16MM-VideoFusion.pdf)]
 - Real-time Action Recognition with Enhanced Motion Vector CNNs.[[Project](http://zbwglory.github.io/MV-CNN/index.html)]
+- Convolutional Two-Stream Network Fusion for Video Action Recognition. [[Paper](https://arxiv.org/abs/1604.06573)][[Code](https://github.com/feichtenhofer/twostreamfusion)]
+- ActionVLAD: Learning spatio-temporal aggregation for action classification. [[Project](http://rohitgirdhar.github.io/ActionVLAD)]
+
